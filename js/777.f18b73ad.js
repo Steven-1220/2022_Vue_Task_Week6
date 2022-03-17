@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweek6_homework_formal"]=self["webpackChunkweek6_homework_formal"]||[]).push([[777],{2777:function(e,r,n){n.r(r),n.d(r,{default:function(){return k}});var u=n(3396);function o(e,r){return(0,u.wg)(),(0,u.iD)("h1",null,"後台訂單")}var t=n(89);const a={},f=(0,t.Z)(a,[["render",o]]);var k=f}}]);
+//# sourceMappingURL=777.f18b73ad.js.map

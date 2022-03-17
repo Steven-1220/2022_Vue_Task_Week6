@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweek6_homework_formal"]=self["webpackChunkweek6_homework_formal"]||[]).push([[306],{7306:function(e,r,n){n.r(r),n.d(r,{default:function(){return f}});var a=n(3396);const s=(0,a._)("h1",{class:"display-1 text-danger"},"404",-1),t=(0,a._)("p",{class:"display-3"},"此頁面找不到資料",-1);function l(e,r){return(0,a.wg)(),(0,a.iD)(a.HY,null,[s,t],64)}var o=n(89);const u={},c=(0,o.Z)(u,[["render",l]]);var f=c}}]);
+//# sourceMappingURL=306.7b19a873.js.map
